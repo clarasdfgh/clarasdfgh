@@ -1,16 +1,26 @@
-### Hi there 👋
+- ## Hello World! 🌱
+  ###### I'm CLR (they/them), a Computer Science Student from Spain. Hope you like whatever you find here!
 
-<!--
-**clarasdfgh/clarasdfgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### 💬 Languages I know 
 
-Here are some ideas to get you started:
+  [<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/c.jpg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+   [<img align="left" alt="C++" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/cpp.jpg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+   [<img align="left" alt="Python" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/python.jpg"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+   [<img align="left" alt="Java" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/java.jpg"/>](https://en.wikipedia.org/wiki/Java_(programming_language))<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>On non-robot languages, I speak native Spanish, fluent English, and gibberish Japanese (working on that).
+
+  &nbsp;
+  &nbsp;
+  ### 🔭 You can find me on 
+  [<img align="left" alt="Twitter" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Primera%20fila/Twitter.JPEG"/>](https://twitter.com/Clarasdfgh)
+  [<img align="left" alt="Kofi" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Tercera%20fila/Kofi.JPEG"/>](ko-fi.com/clarasdfgh)<br/>
+
+  <br/>The icons on this page were made by me, and [you can use them too!](https://github.com/clarasdfgh/clr_firefox_icons)
+
+  &nbsp;
+  &nbsp;
+  ### My Github Stats:
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarasdfgh)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarasdfgh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
