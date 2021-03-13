@@ -15,7 +15,7 @@
   [<img align="left" alt="Twitter" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Primera%20fila/Twitter.JPEG"/>](https://twitter.com/Clarasdfgh)
   [<img align="left" alt="Kofi" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Tercera%20fila/Kofi.JPEG"/>](ko-fi.com/clarasdfgh)<br/>
   
-<br/>The icons on this page were made by me, and [you can use them too!](https://github.com/clarasdfgh/clr_firefox_icons)
+  <br/>The icons on this page were made by me, and [you can use them too!](https://github.com/clarasdfgh/clr_firefox_icons)
   
 &nbsp;
   ### My Github Stats:
