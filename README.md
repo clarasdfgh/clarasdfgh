@@ -16,7 +16,6 @@
   [<img align="left" alt="Kofi" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Tercera%20fila/Kofi.JPEG"/>](https://ko-fi.com/clarasdfgh)<br/>
   
   <br/>The icons on this page were made by me, and [you can use them too!](https://github.com/clarasdfgh/clr_firefox_icons)
-  
 &nbsp;
   ### My Github Stats:
   [<img src="https://github-readme-stats.vercel.app/api?username=clarasdfgh&hide=issues&show_icons=true&include_all_commits=true" alt="Anurag's GitHub stats" style="width:60%; zoom:90%" />](https://github.com/anuraghazra/github-readme-stats)    [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasdfgh&layout=compact" alt="Top Langs" style="width:40%;" />](https://github.com/anuraghazra/github-readme-stats)
