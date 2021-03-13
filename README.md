@@ -19,7 +19,7 @@
   
 &nbsp;
   ### My Github Stats:
-  [<img src="https://github-readme-stats.vercel.app/api?username=clarasdfgh&hide=issues&show_icons=true&include_all_commits=true" alt="Anurag's GitHub stats" style="width:60%;" />](https://github.com/anuraghazra/github-readme-stats)[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasdfgh&layout=compact" alt="Top Langs" style="width:40%;" />](https://github.com/anuraghazra/github-readme-stats)
+  [<img src="https://github-readme-stats.vercel.app/api?username=clarasdfgh&hide=issues&show_icons=true&include_all_commits=true" alt="Anurag's GitHub stats" style="width:60%; zoom:90%" />](https://github.com/anuraghazra/github-readme-stats)    [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasdfgh&layout=compact" alt="Top Langs" style="width:40%;" />](https://github.com/anuraghazra/github-readme-stats)
   
   
 
