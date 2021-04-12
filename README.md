@@ -3,8 +3,8 @@
 
   ### 💬 Languages I know 
 
-  [<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/c.jpg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
    [<img align="left" alt="C++" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/cpp.jpg"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+    [<img align="left" alt="C" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/c.jpg"/>](https://en.wikipedia.org/wiki/C_(programming_language))
    [<img align="left" alt="Python" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/python.jpg"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
    [<img align="left" alt="Java" height="50px" src="https://raw.githubusercontent.com/clarasdfgh/clr_firefox_icons/main/jpg/Programming%20languages/java.jpg"/>](https://en.wikipedia.org/wiki/Java_(programming_language))<br/>
 
